@@ -1,0 +1,45 @@
+﻿@page
+@model SistemaIntegralCYA.App.Pages.ServiciosModel
+@{
+}
+
+<form>
+    <div class="input-group mb-3">
+        <label class="input-group-text" for="inputGroupSelect01">Seleccionar Servicio</label>
+        <select class="form-select" id="inputGroupSelect01">
+            <option selected>Elegir...</option>
+            <option value="1">Mantenimiento</option>
+            <option value="2">Reparación</option>
+            <option value="3">Instalación</option>
+        </select>
+        <label class="input-group-text" for="inputGroupSelect01">Elija el Técnico</label>
+        <select class="form-select" id="inputGroupSelect01">
+            <option selected>Técnicos...</option>
+            <option value="1">Martin</option>
+            <option value="2">Luis</option>
+            <option value="3">Pedro</option>
+        </select>
+        <label class="input-group-text" for="inputGroupSelect01">Seleccionar Horario</label>
+        <select class="form-select" id="inputGroupSelect01">
+            <option selected>Horarios Disponible...</option>
+            <option value="1">9 am</option>
+            <option value="2">10 am</option>
+            <option value="3">11 am</option>
+            <option value="4">12 pm</option>
+            <option value="5">1 pm</option>
+            <option value="6">2 pm</option>
+            <option value="7">3 pm</option>
+            <option value="8">4 pm</option>
+        </select>
+        <div class="inputContainer">
+            <input type="text" class="inputForm" placeholder="a">
+            <label class="labelForm">Describa brevemente su requerimiento</label>
+        </div>
+        <div>
+        <input type="submit" class="" value="Grabar">
+        <input type="submit" class="" value="Editar">
+        <input type="submit" class="" value="Eliminar">
+        <a class="submitBtn nav-link" href="../router/Aplicativo">Regresar<a>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,82 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Mantenimiento y Reparaciones de Computadores</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/normalize.css" />
+    <link rel="stylesheet" href="~/css/estilos.css" />
+
+</head>
+
+<body>
+
+@* Opción de diseño 1: Falta hacer que el titulo que fijo en la nav.  *@
+    <header class="main__header">
+        <div>
+            <img src="../img/Logo.jpg" class="logo" alt="Logo de la compañia">            
+        </div>            
+    </header>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="">Inicio</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="../router/NuestraEmpresa">Nuestra Empresa</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Nuestros Servicios
+                </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Mantenimiento</a>
+                <a class="dropdown-item" href="#">Reparaciones</a>                
+                <a class="dropdown-item" href="#">Instalaciones</a>
+            </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Ingresar al Sistema
+                </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../router/IngresoUsuario" >Iniciar Sesión</a>
+                <a class="dropdown-item" href="../router/RegistroUsuario">Registrarse</a>
+            </li>
+        </ul>
+            <form class="form-inline my-2 my-lg-0">
+                <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+            </form>
+        </div>
+    </nav>    
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/Intranet.js"></script>
+    <script src="~/js/slider.js"></script>
+    <script src="~/js/validacionRegistro.js"></script>
+    <script src="~/js/validacionIngreso.js"></script>
+
+    @RenderSection("Scripts", required: false)
+
+</body>
+    <footer class="">
+        <div class="">
+            &copy; Reservado por Castro & Asociados</a>
+        </div>
+    </footer>
+</html>
