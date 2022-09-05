@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2nfqcsUDjYv5yHhCcpE+813P5nAYcLiIAyy7pOSn9ZBzdOHwNISMIev62QJDv8G4/8fcdGsIPyLfeF/qxD5yvA==",
+  "dgSpecHash": "zVtaTpQxCf9NuvotgK02vLeJ9N+jbbNBIgRVqtFv4DwQytQ/0CRNo+kQ8iolirj8tGW+3VNr2exMTr0/iokO4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

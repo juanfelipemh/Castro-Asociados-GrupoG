@@ -40,3 +40,45 @@ C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & 
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.csproj.AssemblyReference.cache
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\Historial.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.exe
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.deps.json
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.runtimeconfig.json
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.runtimeconfig.dev.json
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.dll
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.pdb
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.Views.dll
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.Views.pdb
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.csproj.AssemblyReference.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.AssemblyInfoInputs.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.AssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.RazorAssemblyInfo.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.RazorAssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\staticwebassets\SistemaIntegralCYA.App.Frontend.StaticWebAssets.Manifest.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.TagHelpers.input.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.TagHelpers.output.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.RazorCoreGenerate.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\Aplicativo.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\Historial.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\IngresoUsuario.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\NuestraEmpresa.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\RegistroUsuario.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\router\Servicios.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.RazorTargetAssemblyInfo.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.RazorTargetAssemblyInfo.cs
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.Views.pdb
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.dll
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.pdb
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.genruntimeconfig.cache
+C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\netcoreapp3.1\SistemaIntegralCYA.App.Frontend.csproj.CopyComplete
