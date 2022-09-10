@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {}
+    "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
+    "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
         "projectName": "SistemaIntegralCYA.App.Dominio",
-        "projectPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
