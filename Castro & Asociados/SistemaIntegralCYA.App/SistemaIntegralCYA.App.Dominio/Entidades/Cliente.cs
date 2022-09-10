@@ -14,8 +14,6 @@ namespace SistemaIntegralCYA.App.Dominio.Entidades
         public Horario Horario { get; set; }
         public Tecnicos Tecnico { get; set; }
         public string Descripcion { get; set; }
-        public string DatosMedioPago { get; set; }
-        public float SaldoMedioPago { get; }
         public List<Historial> Historial { get; set; }
     }
 }

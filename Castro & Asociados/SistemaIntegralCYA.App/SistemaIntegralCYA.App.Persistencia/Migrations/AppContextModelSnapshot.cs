@@ -128,9 +128,6 @@ namespace SistemaIntegralCYA.App.Persistencia.Migrations
                 {
                     b.HasBaseType("SistemaIntegralCYA.App.Dominio.Entidades.Persona");
 
-                    b.Property<string>("DatosMedioPago")
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("Descripcion")
                         .HasColumnType("nvarchar(max)");
 

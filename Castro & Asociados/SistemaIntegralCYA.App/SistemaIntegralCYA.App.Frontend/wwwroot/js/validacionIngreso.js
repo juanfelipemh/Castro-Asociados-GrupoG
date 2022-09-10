@@ -16,7 +16,7 @@ elemento.addEventListener("submit", (e) => {
     //if(nombre === "" || apellido === "" || email === "" || edad === ""){
     if([CorreoElectronico, Contrasena].includes("")){
         // verdadero
-        mensajeInformativo1("Todos los valor son obligatorios", true);
+        mensajeInformativo1("Todos los campos son obligatorios", true);
         return;
     }
     

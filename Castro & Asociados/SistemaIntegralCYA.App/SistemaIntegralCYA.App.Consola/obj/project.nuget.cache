@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QL0eFaVtpRuqbtK7CmTeI3ZjMf4dQsEVxPa2vVjxVxrZPtYEchQXFnY59ENmF8RiRNvmotNOmTNqq3sbM+3ISA==",
+  "dgSpecHash": "i74pRDqxaojCKVMBHzLM3/HjY1r0RjTpFaD7fXDjxfhv583AHdRQHDhGiaS2oqFH6Ik6bymtzqqXnsVR/eEAiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -99,7 +99,11 @@
     "C:\\Users\\Felipe\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Felipe\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Felipe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\Felipe\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
   ],
   "logs": []
 }

@@ -20,7 +20,7 @@ formulario.addEventListener("submit", (e) => {
     //if(nombre === "" || apellido === "" || email === "" || edad === ""){
     if([identificacion, nombres, apellidos, CorreoElectronico, Contrasena, ConfirmarContrasena].includes("")){
         // verdadero
-        mensajeInformativo("Todos los valor son obligatorios", true);
+        mensajeInformativo("Todos los campos son obligatorios", true);
         return;
     }
     
