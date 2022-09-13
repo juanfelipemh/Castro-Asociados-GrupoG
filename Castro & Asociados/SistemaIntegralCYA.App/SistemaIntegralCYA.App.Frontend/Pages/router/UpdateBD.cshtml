@@ -1,0 +1,43 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.UpdateBD
+@{
+}
+
+<h1>Modificar Información Usuario @Model.clientes.Id</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="clientes.Id"/>
+    <div class="form-group">
+        <label asp-for="clientes.Nombre"></label>
+        <input asp-for="clientes.Nombre" class="form-control">
+        <span class="text-danger" asp-validation-for="clientes.Nombre"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="clientes.Apellido"></label>
+        <input asp-for="clientes.Apellido" class="form-control">
+        <span class="text-danger" asp-validation-for="clientes.Apellido"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="clientes.NumeroTelefono"></label>
+        <input asp-for="clientes.NumeroTelefono" class="form-control">
+        <span class="text-danger" asp-validation-for="clientes.NumeroTelefono"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="clientes.CorreoElectronico"></label>
+        <input asp-for="clientes.CorreoElectronico" class="form-control">
+        <span class="text-danger" asp-validation-for="clientes.CorreoElectronico"></span>
+    </div>    
+    <div class="form-group">
+        <label asp-for="clientes.ClaveUsuario"></label>
+        <input asp-for="clientes.ClaveUsuario" class="form-control">
+        <span class="text-danger" asp-validation-for="clientes.ClaveUsuario"></span>
+    </div>    
+    <div>
+        <button type="submit" class="btn btn-primary">Grabar</button>
+    </div>
+</form>
+    <div>
+        <a asp-page="./BDClientes" class="btn btn-primary">Base de Datos</a>
+    </div>    
+
+

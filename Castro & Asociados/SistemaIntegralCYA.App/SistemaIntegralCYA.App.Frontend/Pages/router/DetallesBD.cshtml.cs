@@ -10,27 +10,33 @@ using SistemaIntegralCYA.App.Persistencia.AppRepositorios;
 
 namespace SistemaIntegralCYA.App.Frontend.Pages.router
 {
-    public class BDClientes : PageModel
+    public class DetallesBD : PageModel
     {
-        /*private readonly ILogger<BDClientes> _logger;
+        /*private readonly ILogger<DetallesBD> _logger;
 
-        public BDClientes(ILogger<BDClientes> logger)
+        public DetallesBD(ILogger<DetallesBD> logger)
         {
             _logger = logger;
         }*/
 
         private readonly IRepositorioClientes repositorioClientes;
 
-        public IEnumerable<Cliente> clientes { get; set; }
+        public Cliente clientes { get; set; }
 
-        public BDClientes(IRepositorioClientes repositorioClientes)
+        public DetallesBD(IRepositorioClientes repositorioClientes)
         {
             this.repositorioClientes = repositorioClientes;
         }
 
-        public void OnGet()
+        public IActionResult OnGet(int clienteId)
         {
-            clientes = repositorioClientes.GetAll();
+            clientes = repositorioClientes.GetClientePorId(clienteId);
+            if (clientes == null)
+            {
+                return RedirectToPage("./NotFound");
+            }
+            else
+                return Page();
         }
     }
 }

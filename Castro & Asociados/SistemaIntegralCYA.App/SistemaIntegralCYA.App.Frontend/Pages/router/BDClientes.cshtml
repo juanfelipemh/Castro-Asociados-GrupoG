@@ -3,16 +3,36 @@
 @{
 }
 
-<h1>CLIENTES</h1>
+<h1>Usuarios Sistema</h1>
+
 <table class="table">
+    <tr>
+        <th scope="col">Identificación</th>
+        <th scope="col">Nombres</th>
+        <th scope="col">Apellidos</th>
+        <th scope="col">Detalles</th>
+        <th scope="col">Modificar</th>
+    </tr>
     @foreach(var cliente in Model.clientes)
     {          
+
         <tr>
-            <th>@cliente.Id</th>
-            <th>@cliente.Nombre</th>
-            <th>@cliente.Apellido</th>
-            <th>@cliente.NumeroTelefono</th>
-            <th>@cliente.CorreoElectronico</th>
-        </tr>        
+            <td>@cliente.Id</td>
+            <td>@cliente.Nombre</td>
+            <td>@cliente.Apellido</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./DetallesBD" asp-route-clienteId="@cliente.Id">
+                    <i class="fas fa-info-circle fa-lg"></i> 
+                    Detalle Cliente
+                </a>    
+            </td>  
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="./UpdateBD" asp-route-clienteId="@cliente.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                </a>
+            </td>          
+        </tr>     
     }
+
 </table>
+

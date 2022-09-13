@@ -1,0 +1,33 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.DetallesBD
+@{    
+}
+
+<h1>Informacón Detallada Cliente</h1>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th scope="col">Identificación</th>
+        <th scope="col">Nombres</th>
+        <th scope="col">Apellidos</th>
+        <th scope="col">Numero Teléfono</th>
+        <th scope="col">Correo Electronico</th>
+        <th scope="col">Contraseña</th>                
+    </tr>
+    </thead>
+    <tbody>
+    <tr>        
+        <td>@Model.clientes.Id</td>
+        <td>@Model.clientes.Nombre</td>
+        <td>@Model.clientes.Apellido</td>
+        <td>@Model.clientes.NumeroTelefono </td>
+        <td>@Model.clientes.CorreoElectronico</td>
+        <td>@Model.clientes.ClaveUsuario</td>        
+    </tr>
+    </tbody>
+</table>
+
+<div>
+    <a asp-page="./BDClientes" class="btn-default">Base de Datos</a>
+</div>
