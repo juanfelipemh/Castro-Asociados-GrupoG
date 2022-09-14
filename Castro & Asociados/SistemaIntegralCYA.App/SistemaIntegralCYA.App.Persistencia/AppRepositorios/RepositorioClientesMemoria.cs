@@ -57,7 +57,7 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
             {
                 if (!String.IsNullOrEmpty(filtro)) // Si el filtro tiene algun valor
                 {
-                    clientes = clientes.Where(c => c.id.Contains(filtro));
+                    clientes = clientes.Where(c => c.CorreoElectronico.Contains(filtro));
                     /// <summary>
                     /// Filtra los mensajes que contienen el filtro
                     /// </summary>     
