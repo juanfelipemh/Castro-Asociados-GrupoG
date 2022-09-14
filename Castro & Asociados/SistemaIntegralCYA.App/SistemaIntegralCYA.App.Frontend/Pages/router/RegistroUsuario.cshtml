@@ -2,30 +2,13 @@
 @model SistemaIntegralCYA.App.Pages.RegistroUsuarioModel
 @{
 }
-
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
-    <link rel="stylesheet" href="~/css/normalize.css" />
-    <link rel="stylesheet" href="~/css/estilos.css" />
-</head>
-
 <body class="signForm">    
     <div class="signupFrm">
-        <form id="formRegistro" method="post"> <!-- VALIDAR COMO PONER UN ID Y METHOD EN LA ETIQUETA FORM JUNTOS -->
+        <form  method="post"> <!-- VALIDAR COMO PONER UN ID Y METHOD EN LA ETIQUETA FORM JUNTOS -->
             <input type="hidden" asp-for="clientes.Id"/>
-            <div class="formForm">    
+            <div class="formForm" id="formRegistro">    
 
                 <h3 class="titleForm">Registrarse</h3>
-
-                <div class="inputContainer">                    
-                    <input id="identificacion" type="number" class="inputForm" asp-for="clientes.Id" placeholder="a">
-                    <label class="labelForm" asp-for="clientes.Id">Identificacion</label>                    
-                </div>
 
                 <div class="inputContainer">                    
                     <input id="nombres" type="text" class="inputForm" asp-for="clientes.Nombre" placeholder="a">

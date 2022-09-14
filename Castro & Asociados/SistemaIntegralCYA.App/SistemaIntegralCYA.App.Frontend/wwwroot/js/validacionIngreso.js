@@ -9,7 +9,7 @@ const elemento = document.querySelector("#formIngreso");
 elemento.addEventListener("submit", (e) => {
     e.preventDefault();
 
-    const CorreoElectronico = document.querySelector("#CorreoElectronico").value;
+    const CorreoElectronico = document.querySelector("#correoElectronico").value;
     const Contrasena = document.querySelector("#Contrasena").value;
 
     // Codicional

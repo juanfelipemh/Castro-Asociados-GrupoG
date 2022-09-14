@@ -49,7 +49,7 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
 
         public IActionResult OnPost() // Con esto, al momento de darle modificar a los datos, publica el dato corregido en la base de datos. Por eso la tabla se uso method="post"
         {
-            if (clientes.Id > 0)
+            if (clientes.Id >= 0)
             {
                 clientes = repositorioClientes.UpdateUsuario(clientes);
             }
