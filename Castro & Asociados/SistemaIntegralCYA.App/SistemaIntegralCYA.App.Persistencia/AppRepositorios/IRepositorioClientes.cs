@@ -8,6 +8,7 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
         IEnumerable<Cliente> GetAll();
         Cliente GetClientePorId(int clienteId);
         Cliente UpdateUsuario(Cliente ClienteActualizado);
+        Cliente AddUsuario(Cliente NuevoCliente);
 
     }
 }

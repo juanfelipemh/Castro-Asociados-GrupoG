@@ -29,9 +29,16 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
             this.repositorioClientes = repositorioClientes;
         }
 
-        public IActionResult OnGet(int clienteId)
+        public IActionResult OnGet(int? clienteId)
         {
-            clientes = repositorioClientes.GetClientePorId(clienteId);
+            if (clienteId.HasValue)
+            {
+                clientes = repositorioClientes.GetClientePorId(clienteId.Value);
+            }
+            else
+            {
+                clientes = new Cliente();
+            }
             if (clientes == null)
             {
                 return RedirectToPage("./NotFound");
@@ -42,7 +49,14 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
 
         public IActionResult OnPost() // Con esto, al momento de darle modificar a los datos, publica el dato corregido en la base de datos. Por eso la tabla se uso method="post"
         {
-            clientes = repositorioClientes.UpdateUsuario(clientes);
+            if (clientes.Id > 0)
+            {
+                clientes = repositorioClientes.UpdateUsuario(clientes);
+            }
+            else
+            {
+                repositorioClientes.AddUsuario(clientes);
+            }
             return Page();
         }
     }

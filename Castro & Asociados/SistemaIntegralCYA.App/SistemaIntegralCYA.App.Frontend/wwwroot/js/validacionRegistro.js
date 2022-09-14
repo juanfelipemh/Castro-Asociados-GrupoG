@@ -12,13 +12,14 @@ formulario.addEventListener("submit", (e) => {
     const identificacion = document.querySelector("#identificacion").value;
     const nombres = document.querySelector("#nombres").value;
     const apellidos = document.querySelector("#apellidos").value;
+    const NumeroTelefono = document.querySelector("#NumeroTelefono").value;
     const CorreoElectronico = document.querySelector("#CorreoElectronico").value;
     const Contrasena = document.querySelector("#Contrasena").value;
     const ConfirmarContrasena = document.querySelector("#ConfirmarContrasena").value;
 
     // Codicional
     //if(nombre === "" || apellido === "" || email === "" || edad === ""){
-    if([identificacion, nombres, apellidos, CorreoElectronico, Contrasena, ConfirmarContrasena].includes("")){
+    if([identificacion, nombres, apellidos, NumeroTelefono, CorreoElectronico, Contrasena, ConfirmarContrasena].includes("")){
         // verdadero
         mensajeInformativo("Todos los campos son obligatorios", true);
         return;
@@ -30,6 +31,7 @@ formulario.addEventListener("submit", (e) => {
         "identificacion": identificacion,
         "nombres": nombres,
         "apellidos": apellidos,
+        "Numero Telefono": NumeroTelefono,
         "Correo Electrónico": CorreoElectronico,
         "Contraseña": Contrasena,
         "Confirmar Contraseña": ConfirmarContrasena

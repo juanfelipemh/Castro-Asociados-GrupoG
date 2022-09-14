@@ -42,5 +42,12 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
             }
             return cliente;
         }
+
+        public Cliente AddUsuario(Cliente NuevoCliente)
+        {
+            NuevoCliente.Id = clientes.Max(r => r.Id) + 1;
+            clientes.Add(NuevoCliente);
+            return NuevoCliente;
+        }
     }
 }

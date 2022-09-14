@@ -15,7 +15,6 @@
     </tr>
     @foreach(var cliente in Model.clientes)
     {          
-
         <tr>
             <td>@cliente.Id</td>
             <td>@cliente.Nombre</td>
@@ -33,6 +32,6 @@
             </td>          
         </tr>     
     }
-
 </table>
+<a asp-page=".\UpdateBD" class="btn btn-primay">Adicionar Contacto</a>
 
