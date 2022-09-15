@@ -10,7 +10,7 @@ using SistemaIntegralCYA.App.Persistencia.AppRepositorios;
 namespace SistemaIntegralCYA.App.Pages
 {
     public class IngresoUsuarioModel : PageModel
-    {   /*
+    {
         private readonly IRepositorioClientes repositorioClientes;
         public IEnumerable<Cliente> clientes { get; set; }
 
@@ -26,6 +26,6 @@ namespace SistemaIntegralCYA.App.Pages
         {
             FiltroBusqueda = filtroBusqueda;
             clientes = repositorioClientes.GetClientePorFiltro(filtroBusqueda);
-        }*/
+        }
     }
 }

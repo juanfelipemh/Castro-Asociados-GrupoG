@@ -4,17 +4,17 @@ let datos1 = {};
 let usuarios1 = []; 
 
 // querySelector se usa para asignar a una variable una etiqueta ya se por id o por class
-const elemento = document.querySelector("#formIngreso");
+const formulario1 = document.querySelector("#formIngreso");
 
-elemento.addEventListener("submit", (e) => {
+formulario1.addEventListener("submit", (e) => {
     e.preventDefault();
 
-    const CorreoElectronico = document.querySelector("#correoElectronico").value;
+    const correoElectronico = document.querySelector("#correoElectronico").value;
     const Contrasena = document.querySelector("#Contrasena").value;
 
     // Codicional
     //if(nombre === "" || apellido === "" || email === "" || edad === ""){
-    if([CorreoElectronico, Contrasena].includes("")){
+    if([correoElectronico, Contrasena].includes("")){
         // verdadero
         mensajeInformativo1("Todos los campos son obligatorios", true);
         return;
@@ -23,8 +23,8 @@ elemento.addEventListener("submit", (e) => {
     mensajeInformativo1("Bienvenido", redireccion());
 
     datos1 = {
-        "Correo Electrónico": CorreoElectronico,
-        "Contraseña": Contrasena,
+        "Correo Electrónico": correoElectronico,
+        "Contraseña": contrasena,
 
     };
 

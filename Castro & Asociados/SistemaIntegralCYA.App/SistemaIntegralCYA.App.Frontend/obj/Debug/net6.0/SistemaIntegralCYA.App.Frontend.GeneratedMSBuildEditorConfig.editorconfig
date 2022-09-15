@@ -8,61 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaIntegralCYA.App.Frontend
 build_property.RootNamespace = SistemaIntegralCYA.App.Frontend
-build_property.ProjectDir = C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados - BK\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\
+build_property.ProjectDir = C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados - BK\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend
+build_property.MSBuildProjectDirectory = C:\Users\Felipe\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Error.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Index.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Privacy.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Aplicativo.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Aplicativo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXEFwbGljYXRpdm8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Historial.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/BDClientes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXEJEQ2xpZW50ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/DetallesBD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXERldGFsbGVzQkQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Historial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXEhpc3RvcmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/IngresoUsuario.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/IngresoUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXEluZ3Jlc29Vc3VhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/NuestraEmpresa.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/NuestraEmpresa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXE51ZXN0cmFFbXByZXNhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/RegistroUsuario.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/RegistroUsuario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXFJlZ2lzdHJvVXN1YXJpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Servicios.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/Servicios.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXFNlcnZpY2lvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Shared/_Layout.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/router/UpdateBD.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccm91dGVyXFVwZGF0ZUJELmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/_ViewImports.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe/OneDrive/CLASES PROGRAMACIÓN/Ciclo 3/Proyecto/Grupo G/Castro & Asociados - BK/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/_ViewStart.cshtml]
+[C:/Users/Felipe/OneDrive/Castro-Asociados-GrupoG/Castro & Asociados/SistemaIntegralCYA.App/SistemaIntegralCYA.App.Frontend/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
