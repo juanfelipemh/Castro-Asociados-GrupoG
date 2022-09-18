@@ -32,6 +32,15 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
             _appContext.SaveChanges();
             return tecnicoAdicional.Entity;
         }
+        
+        void IRepositorioTecnico.DeleteTecnico (int tecnicoId)
+        {
+            var tecnicoEncontrado = _appContext.Tecnicos.FirstOrDefault(c => c.Id ==tecnicoId);
+            if(tecnicoEncontrado == null)
+                return;
+            _appContext.Tecnicos.Remove(tecnicoEncontrado);
+            _appContext.SaveChanges();
+        }        
 
         public IEnumerable<Tecnicos> GetAll()
         {

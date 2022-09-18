@@ -1,0 +1,57 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.DeleteBD
+@{
+}
+
+<div>
+    <h1>Borrar Información Usuario @Model.clientes.Id</h1>
+</div>
+
+<body class="signForm">    
+    <div class="signupFrm">
+        <form method="post">
+            <input type="hidden" asp-for="clientes.Id"/>
+            <div class="formForm2" id="formRegistro">    
+
+                <h3 class="titleForm">Elminiar Datos</h3>
+
+                <div class="inputContainer">                    
+                    <input id="nombres" type="text" class="inputForm" asp-for="clientes.Nombre" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.Nombre">Nombre</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="apellidos" type="text" class="inputForm" asp-for="clientes.Apellido" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.Apellido">Apellido</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="NumeroTelefono" type="text" class="inputForm" asp-for="clientes.NumeroTelefono" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.NumeroTelefono">Numero Telefono</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="CorreoElectronico" type="email" class="inputForm" asp-for="clientes.CorreoElectronico" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.CorreoElectronico">Correo Electrónico</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="Contrasena" type="text" class="inputForm" asp-for="clientes.ClaveUsuario" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.ClaveUsuario">Contrasena</label>                    
+                </div>  
+
+                <div class="inputContainer">                    
+                    <input id="ConfirmarContrasena" type="text" class="inputForm" asp-for="clientes.ClaveUsuario" placeholder="a">
+                    <label class="labelForm" asp-for="clientes.ClaveUsuario">Confirmar Contraseña</label>                    
+                </div>  
+
+                <div>
+                    <button type="submit" class="btn btn-primary">Borrar</button>
+                </div>                
+            </div>            
+            <div>
+                <a asp-page="../router/BDClientes" class="btn btn-primary">Base de Datos</a>
+            </div>                 
+        </form> 
+    </div>
+</body>

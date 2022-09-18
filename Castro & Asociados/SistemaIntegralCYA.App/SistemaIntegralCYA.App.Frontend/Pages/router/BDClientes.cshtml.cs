@@ -26,5 +26,6 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
         {
             clientes = repositorioClientes.GetAll();
         }
+
     }
 }

@@ -341,3 +341,5 @@ C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegr
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\SistemaIntegralCYA.App.Frontend.genruntimeconfig.cache
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\ref\SistemaIntegralCYA.App.Frontend.dll
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\IngresoAdmin.cshtml.g.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\DeleteBD.cshtml.g.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\EliminarTecnico.cshtml.g.cs

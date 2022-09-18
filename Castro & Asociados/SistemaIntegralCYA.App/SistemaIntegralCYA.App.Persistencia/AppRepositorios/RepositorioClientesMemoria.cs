@@ -32,7 +32,7 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
             return cilenteAdicional.Entity;
         }
 
-        public void DeleteUsuario (int clienteId)
+        void IRepositorioClientes.DeleteUsuario (int clienteId)
         {
             var usuarioEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id ==clienteId);
             if(usuarioEncontrado == null)

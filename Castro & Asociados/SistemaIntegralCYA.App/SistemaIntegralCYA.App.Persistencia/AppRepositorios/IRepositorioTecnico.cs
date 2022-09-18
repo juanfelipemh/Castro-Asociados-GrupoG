@@ -12,6 +12,7 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
         Tecnicos GetTecnicoPorId(int tecnicoId);
         Tecnicos AddTecnico (Tecnicos nuevoTecnico);
         Tecnicos UpdateTecnico (Tecnicos tecnicoActualizado);
+        void DeleteTecnico (int tecnicoId);
         IEnumerable<Tecnicos> GetTecnicosPorFiltro(string filtro);
     }
 }

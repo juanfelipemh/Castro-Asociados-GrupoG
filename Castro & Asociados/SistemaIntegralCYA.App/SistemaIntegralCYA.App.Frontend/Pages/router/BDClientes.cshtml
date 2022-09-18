@@ -10,13 +10,12 @@
         <th scope="col">Identificación</th>
         <th scope="col">Nombres</th>
         <th scope="col">Apellidos</th>
-        <th scope="col">Detalles</th>
-        <th scope="col">Modificar</th>
     </tr>
 
     @foreach(var cliente in Model.clientes)
     {          
-        <tr>            
+        <tr> 
+            <td>@cliente.Id</td>           
             <td>@cliente.Nombre</td>
             <td>@cliente.Apellido</td>
             <td>
@@ -31,11 +30,17 @@
                     Modificar
                 </a>
             </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="../router/DeleteBD" asp-route-clienteId="@cliente.Id">
+                    <i class="fas fa-trash fa-lg" aria-hidden="true"></i>
+                    Eliminar
+                </a>
+            </td>            
         </tr>     
     }
 </table>
 <div>
-    <a asp-page="../router/AdminSistema" class="btn btn-primary">Principal</a>
+    <a asp-page="../router/AdminSistema" class="btn btn-primary">Menú Principal</a>
 </div>
 
 
