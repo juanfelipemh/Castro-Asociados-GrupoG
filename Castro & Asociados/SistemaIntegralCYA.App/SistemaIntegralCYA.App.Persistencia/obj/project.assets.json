@@ -7536,11 +7536,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj",
       "projectName": "SistemaIntegralCYA.App.Persistencia",
-      "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj",
+      "projectPath": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7555,8 +7555,8 @@
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
           "projectReferences": {
-            "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
+            "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
             }
           }
         }

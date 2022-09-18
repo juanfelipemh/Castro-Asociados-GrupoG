@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Hr/aN8aV4L5lHK0ddfvN6J7wB5kSuAd05E9s1/PCMh6hm7v2I3cUQltd/59uP62aU/lHQJyQcr9tAW14vPLHg==",
+  "dgSpecHash": "kypxcqHdY6fQm7PPeIKzlC1bNiDj+NSVG0XNZuLfWa3uJpz3ghVXii7qZBg2r+eEe3Msdaa8jq18RHcH4gis4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
