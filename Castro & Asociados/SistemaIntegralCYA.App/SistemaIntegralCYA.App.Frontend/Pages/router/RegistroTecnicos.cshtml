@@ -1,0 +1,53 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.RegistroTecnicos
+@{
+}
+<body class="signForm">    
+    <div class="signupFrm">
+        <form  method="post"> <!-- VALIDAR COMO PONER UN ID Y METHOD EN LA ETIQUETA FORM JUNTOS -->
+            <input type="hidden" asp-for="tecnicos.Id"/>
+            <div class="formForm" id="formRegistro">    
+
+                <h3 class="titleForm">Registrarse</h3>
+
+                <div class="inputContainer">                    
+                    <input id="nombres" type="text" class="inputForm" asp-for="tecnicos.Nombre" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.Nombre">Nombre</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="apellidos" type="text" class="inputForm" asp-for="tecnicos.Apellido" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.Apellido">Apellido</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="NumeroTelefono" type="text" class="inputForm" asp-for="tecnicos.NumeroTelefono" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.NumeroTelefono">Numero Telefono</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="CorreoElectronico" type="email" class="inputForm" asp-for="tecnicos.CorreoElectronico" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.CorreoElectronico">Correo Electrónico</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="TarjetaProfesional" type="text" class="inputForm" asp-for="tecnicos.TarjetaProfesional" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.TarjetaProfesional">Tarjeta Profesional</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="Contrasena" type="text" class="inputForm" asp-for="tecnicos.ClaveUsuario" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.ClaveUsuario">Contrasena</label>                    
+                </div>  
+
+                <div class="inputContainer">                    
+                    <input id="ConfirmarContrasena" type="text" class="inputForm" asp-for="tecnicos.ClaveUsuario" placeholder="a">
+                    <label class="labelForm" asp-for="tecnicos.ClaveUsuario">Confirmar Contraseña</label>                    
+                </div>
+            <div>
+                <input type="submit" class="submitBtn" value="Registrarse">
+                <div id="mensaje"></div>  
+            </div>    
+        </form> 
+    </div>
+</body>

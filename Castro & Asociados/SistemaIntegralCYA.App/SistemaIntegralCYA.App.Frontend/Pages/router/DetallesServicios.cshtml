@@ -1,0 +1,28 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.DetallesServicios
+@{
+}
+
+<h1>Informacón Detallada Servicios</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Descripcion</th>
+            <th scope="col">Costo</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.servicios.Id</td>
+            <td>@Model.servicios.Descripcion</td>
+            <td>@Model.servicios.Costo</td>
+        </tr>
+    </tbody>
+</table>
+
+<div>
+    <a asp-page="../router/BDServicios" class="btn btn-primary">Base de Datos</a>
+</div>

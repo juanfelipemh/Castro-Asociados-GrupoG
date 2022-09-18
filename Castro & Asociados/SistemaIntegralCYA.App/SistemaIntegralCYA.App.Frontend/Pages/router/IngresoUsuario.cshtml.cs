@@ -17,9 +17,9 @@ namespace SistemaIntegralCYA.App.Pages
         [BindProperty(SupportsGet = true)]
         public string FiltroBusqueda { get; set; }
 
-        public IngresoUsuarioModel(IRepositorioClientes repositorioClientes)
+        public IngresoUsuarioModel()
         {
-            this.repositorioClientes = repositorioClientes;
+            this.repositorioClientes = new RepositorioClientesMemoria(new SistemaIntegralCYA.App.Persistencia.AppContext());
         }
 
         public void OnGet(string filtroBusqueda)

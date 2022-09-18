@@ -1,0 +1,35 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.DetallesTecnico
+@{
+}
+
+<h1>Informacón Detallada Técnico</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Identificación</th>
+            <th scope="col">Nombres</th>
+            <th scope="col">Apellidos</th>
+            <th scope="col">Numero Teléfono</th>
+            <th scope="col">Correo Electronico</th>
+            <th scope="col">Contraseña</th>
+            <th scope="col">Tarjeta Profesional</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.tecnicos.Id</td>
+            <td>@Model.tecnicos.Nombre</td>
+            <td>@Model.tecnicos.Apellido</td>
+            <td>@Model.tecnicos.NumeroTelefono </td>
+            <td>@Model.tecnicos.CorreoElectronico</td>
+            <td>@Model.tecnicos.ClaveUsuario</td>
+            <td>@Model.tecnicos.TarjetaProfesional</td>
+        </tr>
+    </tbody>
+</table>
+
+<div>
+    <a asp-page="../router/BDTecnicos" class="btn btn-primary">Base de Datos</a>
+</div>

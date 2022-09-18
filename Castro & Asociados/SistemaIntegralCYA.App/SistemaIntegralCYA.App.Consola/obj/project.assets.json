@@ -6041,19 +6041,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
       "projectName": "SistemaIntegralCYA.App.Consola",
-      "projectPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
-      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\obj\\",
+      "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6065,11 +6065,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
+            "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
             },
-            "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\OneDrive\\CLASES PROGRAMACIÓN\\Ciclo 3\\Proyecto\\Grupo G\\Castro & Asociados - BK\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj"
+            "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj"
             }
           }
         }
@@ -6102,30 +6102,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.28, 3.1.28]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

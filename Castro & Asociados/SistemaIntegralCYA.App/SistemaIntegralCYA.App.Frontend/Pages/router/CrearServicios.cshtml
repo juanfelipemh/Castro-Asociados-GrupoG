@@ -1,0 +1,29 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.CrearServicios
+@{
+    
+}
+<body class="signForm">    
+    <div class="signupFrm">
+        <form  method="post"> <!-- VALIDAR COMO PONER UN ID Y METHOD EN LA ETIQUETA FORM JUNTOS -->
+            <input type="hidden" asp-for="servicios.Id"/>
+            <div class="formForm" id="formRegistro">    
+
+                <h3 class="titleForm">Servicios</h3>
+
+                <div class="inputContainer">                    
+                    <input id="Descripcion" type="text" class="inputForm" asp-for="servicios.Descripcion" placeholder="a">
+                    <label class="labelForm" asp-for="servicios.Descripcion">Descripcion</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="Costo" type="number" class="inputForm" asp-for="servicios.Costo" placeholder="a">
+                    <label class="labelForm" asp-for="servicios.Costo">Costo</label>                    
+                </div>
+            <div>
+                <input type="submit" class="submitBtn" value="Crear">
+                <div id="mensaje"></div>  
+            </div>    
+        </form> 
+    </div>
+</body>

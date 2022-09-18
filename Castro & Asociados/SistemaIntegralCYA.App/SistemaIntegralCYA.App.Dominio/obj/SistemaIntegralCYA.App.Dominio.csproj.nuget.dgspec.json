@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {}
+    "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
+    "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
         "projectName": "SistemaIntegralCYA.App.Dominio",
-        "projectPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -56,7 +56,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

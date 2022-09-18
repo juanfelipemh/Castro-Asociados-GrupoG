@@ -13,7 +13,7 @@ formulario.addEventListener("submit", (e) => {
     const nombres = document.querySelector("#nombres").value;
     const apellidos = document.querySelector("#apellidos").value;
     const NumeroTelefono = document.querySelector("#NumeroTelefono").value;
-    const CorreoElectronico = document.querySelector("#CorreoElectronico").value;
+    const CorreoElectronico = document.querySelector("#CorreoElectronico").value;    
     const Contrasena = document.querySelector("#Contrasena").value;
     const ConfirmarContrasena = document.querySelector("#ConfirmarContrasena").value;
 

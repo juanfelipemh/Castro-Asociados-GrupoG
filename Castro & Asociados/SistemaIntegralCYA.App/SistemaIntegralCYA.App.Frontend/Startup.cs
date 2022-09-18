@@ -25,7 +25,7 @@ namespace SistemaIntegralCYA.App.Frontend
         public void ConfigureServices(IServiceCollection services) // acá se ponen los servicios que se usarán
         {
             services.AddRazorPages();
-            services.AddSingleton<IRepositorioClientes, RepositorioClientesMemoria>();
+            services.AddDbContext<SistemaIntegralCYA.App.Persistencia.AppContext>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

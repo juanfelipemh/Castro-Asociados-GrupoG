@@ -1,0 +1,44 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.BDTecnicos
+@{
+    ViewData["Title"] = "BDTecnicos";
+}
+
+<h1>Tecnicos Sistema</h1>
+
+<table class="table">
+    <tr>
+        <th scope="col">Identificación</th>
+        <th scope="col">Nombres</th>
+        <th scope="col">Apellidos</th>
+        <th scope="col">Detalles</th>
+        <th scope="col">Modificar</th>
+    </tr>
+
+    @foreach (var tecnico in Model.tecnicos)
+    {
+        <tr>
+            <td>@tecnico.Nombre</td>
+            <td>@tecnico.Apellido</td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="../router/DetallesTecnico" asp-route-tecnicoId="@tecnico.Id">
+                    <i class="fas fa-info-circle fa-lg"></i>
+                    Detalle Técnico
+                </a>
+            </td>
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="../router/UpdateTecnico" asp-route-tecnicoId="@tecnico.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                    Modificar
+                </a>
+            </td>
+        </tr>
+
+    }
+</table>
+<div>
+    <a class="btn btn-primary table-btn" asp-page="../router/RegistroTecnicos">
+        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+        Crear Técnico
+    </a>
+</div>

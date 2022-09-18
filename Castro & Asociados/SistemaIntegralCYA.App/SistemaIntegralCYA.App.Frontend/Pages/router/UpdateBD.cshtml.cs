@@ -12,21 +12,14 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
 {
     public class UpdateBD : PageModel
     {
-        /*private readonly ILogger<ModificarBD> _logger;
-
-        public ModificarBD(ILogger<ModificarBD> logger)
-        {
-            _logger = logger;
-        }*/
-
         private readonly IRepositorioClientes repositorioClientes;
 
         [BindProperty] // Esta propiedad se uso para crear vinculo entre la página Razor (Formulario) y el Modelo (entidad)
         public Cliente clientes { get; set; }
 
-        public UpdateBD(IRepositorioClientes repositorioClientes)
+        public UpdateBD()
         {
-            this.repositorioClientes = repositorioClientes;
+            this.repositorioClientes = new RepositorioClientesMemoria(new SistemaIntegralCYA.App.Persistencia.AppContext());
         }
 
         public IActionResult OnGet(int? clienteId)

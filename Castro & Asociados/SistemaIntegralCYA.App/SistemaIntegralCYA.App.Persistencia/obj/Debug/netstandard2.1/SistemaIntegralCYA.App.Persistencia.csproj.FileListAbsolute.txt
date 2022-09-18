@@ -36,3 +36,29 @@ C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & 
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados - BK\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.dll
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados - BK\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.pdb
 C:\Users\Felipe\OneDrive\CLASES PROGRAMACIÓN\Ciclo 3\Proyecto\Grupo G\Castro & Asociados - BK\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.CopyComplete
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.deps.json
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.pdb
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.pdb
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.CopyComplete
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.pdb
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.AssemblyInfo.cs
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.dll
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.pdb
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.deps.json
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.dll
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.pdb
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.dll
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\bin\Debug\netstandard2.1\SistemaIntegralCYA.App.Dominio.pdb
+C:\Users\felip\Desktop\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Persistencia\obj\Debug\netstandard2.1\SistemaIntegralCYA.App.Persistencia.csproj.CopyComplete

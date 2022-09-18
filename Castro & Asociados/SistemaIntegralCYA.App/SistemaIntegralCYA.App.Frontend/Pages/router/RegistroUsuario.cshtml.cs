@@ -10,22 +10,15 @@ using SistemaIntegralCYA.App.Persistencia.AppRepositorios;
 namespace SistemaIntegralCYA.App.Pages
 {
     public class RegistroUsuarioModel : PageModel
-    {
-        /*private readonly ILogger<ModificarBD> _logger;
-
-        public ModificarBD(ILogger<ModificarBD> logger)
-        {
-            _logger = logger;
-        }*/
-
+    {       
         private readonly IRepositorioClientes repositorioClientes;
 
         [BindProperty] // Esta propiedad se uso para crear vinculo entre la página Razor (Formulario) y el Modelo (entidad)
         public Cliente clientes { get; set; }
 
-        public RegistroUsuarioModel(IRepositorioClientes repositorioClientes)
+        public RegistroUsuarioModel()
         {
-            this.repositorioClientes = repositorioClientes;
+            this.repositorioClientes = new RepositorioClientesMemoria(new SistemaIntegralCYA.App.Persistencia.AppContext());
         }
 
         public IActionResult OnGet(int? clienteId)
@@ -48,6 +41,10 @@ namespace SistemaIntegralCYA.App.Pages
 
         public IActionResult OnPost() // Con esto, al momento de darle modificar a los datos, publica el dato corregido en la base de datos. Por eso la tabla se uso method="post"
         {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
 
             if (clientes.Id > 0)
             {

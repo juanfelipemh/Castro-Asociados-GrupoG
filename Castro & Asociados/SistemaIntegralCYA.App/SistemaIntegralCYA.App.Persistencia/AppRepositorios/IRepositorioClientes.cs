@@ -8,7 +8,10 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
         IEnumerable<Cliente> GetAll();
         Cliente GetClientePorId(int clienteId);
         Cliente UpdateUsuario(Cliente ClienteActualizado);
+        void DeleteUsuario (int clienteId);
         Cliente AddUsuario(Cliente NuevoCliente);
         IEnumerable<Cliente> GetClientePorFiltro(string filtro);
+
+        //Tecnicos AsinarTecnico (int clienteId, int tecnicoId);
     }
 }

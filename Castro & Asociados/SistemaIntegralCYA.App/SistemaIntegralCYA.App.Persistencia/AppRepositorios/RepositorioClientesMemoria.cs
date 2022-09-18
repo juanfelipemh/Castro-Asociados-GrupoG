@@ -2,11 +2,92 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using SistemaIntegralCYA.App.Dominio.Entidades;
+using Microsoft.EntityFrameworkCore;
 
 namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
 {
     public class RepositorioClientesMemoria : IRepositorioClientes
     {
+        // Acá creamos conexión con la base de datos
+
+        // <summary>
+        /// Referencia al contexto de Cliente
+        /// </summary>
+        private readonly AppContext _appContext;
+        /// <summary>
+        /// Metodo Constructor Utiiza 
+        /// Inyeccion de dependencias para indicar el contexto a utilizar
+        /// </summary>
+        /// <param name="appContext"></param>//
+
+        public RepositorioClientesMemoria(AppContext appContext)
+        {
+            _appContext = appContext;
+        }
+
+        public Cliente AddUsuario(Cliente NuevoCliente)
+        {
+            var cilenteAdicional = _appContext.Clientes.Add(NuevoCliente);
+            _appContext.SaveChanges();
+            return cilenteAdicional.Entity;
+        }
+
+        public void DeleteUsuario (int clienteId)
+        {
+            var usuarioEncontrado = _appContext.Clientes.FirstOrDefault(c => c.Id ==clienteId);
+            if(usuarioEncontrado == null)
+                return;
+            _appContext.Clientes.Remove(usuarioEncontrado);
+            _appContext.SaveChanges();
+        }
+
+        public IEnumerable<Cliente> GetAll()
+        {
+            return GetAll_();
+        }
+
+        public IEnumerable<Cliente> GetClientePorFiltro(string filtro)
+        { 
+            var clientes = GetAll();
+            if(clientes != null)
+            {
+                if(!String.IsNullOrEmpty(filtro))
+                {
+                    clientes = clientes.Where(s => s.Nombre.Contains(filtro));
+                }
+            }
+            return clientes;
+        }
+
+        public IEnumerable<Cliente> GetAll_()
+        {
+            return _appContext.Clientes;
+        }
+
+        public Cliente GetClientePorId(int clienteId)
+        {
+            return _appContext.Clientes.FirstOrDefault(p => p.Id == clienteId);
+        }       
+
+        public Cliente UpdateUsuario(Cliente ClienteActualizado)
+        {
+            var cliente = _appContext.Clientes.FirstOrDefault(r => r.Id == ClienteActualizado.Id);
+            if (cliente != null)
+            {
+                cliente.Nombre = ClienteActualizado.Nombre;
+                cliente.Apellido = ClienteActualizado.Apellido;
+                cliente.NumeroTelefono = ClienteActualizado.NumeroTelefono;
+                cliente.CorreoElectronico = ClienteActualizado.CorreoElectronico;
+                cliente.ClaveUsuario = ClienteActualizado.ClaveUsuario;
+
+                _appContext.SaveChanges();
+            }
+            return cliente;  
+        }
+
+
+
+        /* Todo lo siguiente funciona como datos de memoria para comprobar que funcione la conexión
         List<Cliente> clientes;
 
         public RepositorioClientesMemoria()
@@ -64,6 +145,6 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
                 }
             }
             return clientes;
-        }
+        }*/
     }
 }

@@ -1,0 +1,38 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.BDServicios
+@{    
+}
+<h1>Servicios</h1>
+
+<table class="table">
+    <tr>
+        <th scope="col">Descripcion</th>
+        <th scope="col">Costo</th>
+    </tr>
+
+    @foreach(var servicio in Model.servicios)
+    {          
+        <tr>            
+            <td>@servicio.Descripcion</td> 
+            <td>@servicio.Costo</td>              
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="../router/DetallesServicios" asp-route-servicioId="@servicio.Id">
+                    <i class="fas fa-info-circle fa-lg"></i> 
+                    Detalle Servicio
+                </a>    
+            </td>  
+            <td>
+                <a class="btn btn-primary table-btn" asp-page="../router/UpdateServiciosBD" asp-route-servicioId="@servicio.Id">
+                    <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+                    Modificar
+                </a>
+            </td>
+        </tr>     
+    }
+</table>
+<div>
+    <a class="btn btn-primary table-btn" asp-page="../router/CrearServicios">
+        <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
+        Crear Servicios
+    </a>
+</div>

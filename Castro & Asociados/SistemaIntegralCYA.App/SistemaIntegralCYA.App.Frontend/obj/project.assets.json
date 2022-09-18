@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net5.0": {
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
@@ -56,6 +56,23 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Html.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.0",
+          "Microsoft.Extensions.Identity.Stores": "5.0.0"
+        },
+        "compile": {
+          "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
             "related": ".xml"
           }
         }
@@ -581,18 +598,6 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Tools/5.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.1/_._": {}
-        },
-        "runtime": {
-          "lib/netstandard2.1/_._": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -2549,6 +2554,23 @@
         "microsoft.aspnetcore.html.abstractions.nuspec"
       ]
     },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.0": {
+      "sha512": "AfAFu+ndWsohAwIdek489Xi0kAAKQ8j6x/Q1e3sAHpfy9Keraj6tPp0tpjh8VeQJb1TlMcuiqJGxatgEGiN1IA==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "lib/netstandard2.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll",
+        "lib/netstandard2.1/Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml",
+        "microsoft.aspnetcore.identity.entityframeworkcore.5.0.0.nupkg.sha512",
+        "microsoft.aspnetcore.identity.entityframeworkcore.nuspec"
+      ]
+    },
     "Microsoft.AspNetCore.Identity.UI/5.0.0": {
       "sha512": "2rx9bkkecYW5/Qp74CeteE3FS930kgTSg4nSiuVXRvf95ZXu+BQDTNKfngi1FDaqSfHbicxnyvMRLtEPYWEcVA==",
       "type": "package",
@@ -3199,30 +3221,6 @@
         "lib/netstandard2.1/Microsoft.EntityFrameworkCore.SqlServer.xml",
         "microsoft.entityframeworkcore.sqlserver.5.0.0.nupkg.sha512",
         "microsoft.entityframeworkcore.sqlserver.nuspec"
-      ]
-    },
-    "Microsoft.EntityFrameworkCore.Tools/5.0.0": {
-      "sha512": "HSV7DLFMImkOuhnExianO/Csn1O/6s7h1kQxPFDa6zgfCQI09fyh7zzJoJ3KQiMUnajBBfYkEE9GtK7FoyeHOA==",
-      "type": "package",
-      "path": "microsoft.entityframeworkcore.tools/5.0.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/netstandard2.1/_._",
-        "microsoft.entityframeworkcore.tools.5.0.0.nupkg.sha512",
-        "microsoft.entityframeworkcore.tools.nuspec",
-        "tools/EntityFrameworkCore.PS2.psd1",
-        "tools/EntityFrameworkCore.PS2.psm1",
-        "tools/EntityFrameworkCore.psd1",
-        "tools/EntityFrameworkCore.psm1",
-        "tools/about_EntityFrameworkCore.help.txt",
-        "tools/init.ps1",
-        "tools/net461/any/ef.exe",
-        "tools/net461/win-x86/ef.exe",
-        "tools/netcoreapp2.0/any/ef.dll",
-        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -7785,47 +7783,46 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net5.0": [
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 5.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 5.0.0",
-      "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
-      "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.0",
       "SistemaIntegralCYA.App.Dominio >= 1.0.0",
       "SistemaIntegralCYA.App.Persistencia >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
       "projectName": "SistemaIntegralCYA.App.Frontend",
-      "projectPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
-      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\obj\\",
+      "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\SistemaIntegralCYA.App.Frontend.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
+            "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Dominio\\SistemaIntegralCYA.App.Dominio.csproj"
             },
-            "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj"
+            "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj": {
+              "projectPath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Persistencia\\SistemaIntegralCYA.App.Persistencia.csproj"
             }
           }
         }
@@ -7837,14 +7834,14 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.UI": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.0, )"
           },
-          "Microsoft.EntityFrameworkCore": {
+          "Microsoft.AspNetCore.Identity.UI": {
             "target": "Package",
             "version": "[5.0.0, )"
           },
@@ -7855,12 +7852,6 @@
             "version": "[5.0.0, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
-            "target": "Package",
-            "version": "[5.0.0, )"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-            "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.0, )"
           },
@@ -7888,7 +7879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

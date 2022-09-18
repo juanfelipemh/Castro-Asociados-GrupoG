@@ -1,3 +1,3 @@
 function redireccion(){
-    location.href="./router/Aplicativo";
+    location.href="../router/Aplicativo";
 }

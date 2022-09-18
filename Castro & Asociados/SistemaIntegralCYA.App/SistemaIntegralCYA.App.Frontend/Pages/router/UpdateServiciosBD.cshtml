@@ -1,0 +1,38 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.UpdateServiciosBD
+@{
+    
+}
+<div>
+    <h1>Modificar Información Servicios @Model.servicios.Id</h1>
+</div>
+
+<body class="signForm">    
+    <div class="signupFrm">
+        <form method="post">
+            <input type="hidden" asp-for="servicios.Id"/>
+            <div class="formForm" id="formRegistro">    
+
+                <h3 class="titleForm">Modificar Datos</h3>
+
+                <div class="inputContainer">                    
+                    <input id="Descripcion" type="text" class="inputForm" asp-for="servicios.Descripcion" placeholder="a">
+                    <label class="labelForm" asp-for="servicios.Descripcion">Descripcion</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="Costo" type="number" class="inputForm" asp-for="servicios.Costo" placeholder="a">
+                    <label class="labelForm" asp-for="servicios.Costo">Costo</label>                    
+                </div>
+
+                <div>
+                    <button type="submit" class="btn btn-primary">Modificar</button>
+                </div>
+                <div id="mensaje"></div> 
+            </div>            
+            <div>
+                <a asp-page="../router/BDServicios" class="btn btn-primary">Base de Datos</a>
+            </div>                 
+        </form> 
+    </div>
+</body>

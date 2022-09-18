@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jAJ0l+hlBXFFYzHZWmajw/Ba/R8hBz5x6VKHsuG4egc=",
+  "Hash": "Rl03Carpnbc6DkGHKpnu1LzOQU9w2+5BtyY3BI657Cg=",
   "Source": "SistemaIntegralCYA.App.Frontend",
   "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SistemaIntegralCYA.App.Frontend\\wwwroot",
       "Source": "SistemaIntegralCYA.App.Frontend",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\css\\site.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\favicon.ico",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\js\\site.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE/LICENSE",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\bootstrap\\LICENSE\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
+      "ContentRoot": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Felipe\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\felip\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\5.0.0\\staticwebassets\\V4\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\estilos.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\estilos.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "css/estilos.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\css\\estilos.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\normalize.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "css/normalize.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\site.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\css\\styles.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\favicon.ico",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\amex.jpg",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\amex.jpg",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/amex.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\amex.jpg"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\FlechaDerecha.svg",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\FlechaDerecha.svg",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/FlechaDerecha.svg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\FlechaDerecha.svg"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\FlechaIzquierda.svg",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\FlechaIzquierda.svg",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/FlechaIzquierda.svg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\FlechaIzquierda.svg"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\Logo.JPG",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\Logo.JPG",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/Logo.JPG",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.JPG"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\mastercard.jpg",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\mastercard.jpg",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/mastercard.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\mastercard.jpg"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\visa.jpg",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\img\\visa.jpg",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "img/visa.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\visa.jpg"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\Intranet.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\Intranet.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/Intranet.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\js\\Intranet.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\jquery.payform.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\jquery.payform.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/jquery.payform.min.js",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.payform.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\script.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\slider.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\slider.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/slider.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\validacionIngreso.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\validacionIngreso.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/validacionIngreso.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validacionIngreso.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\validacionRegistro.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\js\\validacionRegistro.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "js/validacionRegistro.js",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\js\\validacionRegistro.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SistemaIntegralCYA.App.Frontend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Felipe\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Frontend\\wwwroot\\",
       "BasePath": "_content/SistemaIntegralCYA.App.Frontend",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

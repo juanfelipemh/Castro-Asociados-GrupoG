@@ -8,11 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "SistemaIntegralCYA.App.Frontend/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.0",
           "Microsoft.AspNetCore.Identity.UI": "5.0.0",
-          "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.Design": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
-          "Microsoft.EntityFrameworkCore.Tools": "5.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.0",
           "SistemaIntegralCYA.App.Dominio": "1.0.0",
           "SistemaIntegralCYA.App.Persistencia": "1.0.0"
@@ -38,6 +37,18 @@
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
         "dependencies": {
           "System.Text.Encodings.Web": "4.5.0"
+        }
+      },
+      "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Relational": "5.0.0",
+          "Microsoft.Extensions.Identity.Stores": "5.0.0"
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.20.52605"
+          }
         }
       },
       "Microsoft.AspNetCore.Identity.UI/5.0.0": {
@@ -457,11 +468,6 @@
             "assemblyVersion": "5.0.0.0",
             "fileVersion": "5.0.20.52303"
           }
-        }
-      },
-      "Microsoft.EntityFrameworkCore.Tools/5.0.0": {
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Design": "5.0.0"
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
@@ -1532,6 +1538,13 @@
       "path": "microsoft.aspnetcore.html.abstractions/2.2.0",
       "hashPath": "microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512"
     },
+    "Microsoft.AspNetCore.Identity.EntityFrameworkCore/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AfAFu+ndWsohAwIdek489Xi0kAAKQ8j6x/Q1e3sAHpfy9Keraj6tPp0tpjh8VeQJb1TlMcuiqJGxatgEGiN1IA==",
+      "path": "microsoft.aspnetcore.identity.entityframeworkcore/5.0.0",
+      "hashPath": "microsoft.aspnetcore.identity.entityframeworkcore.5.0.0.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Identity.UI/5.0.0": {
       "type": "package",
       "serviceable": true,
@@ -1671,13 +1684,6 @@
       "sha512": "sha512-ChtvV0o7F1LsD1ek6pgADRJOzswf2YiPlqlEo0SZOfTp3daHgibp4JC9XXI/oXnQoUuRPuqMGtvgxuDXpr2xwQ==",
       "path": "microsoft.entityframeworkcore.sqlserver/5.0.0",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.5.0.0.nupkg.sha512"
-    },
-    "Microsoft.EntityFrameworkCore.Tools/5.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-HSV7DLFMImkOuhnExianO/Csn1O/6s7h1kQxPFDa6zgfCQI09fyh7zzJoJ3KQiMUnajBBfYkEE9GtK7FoyeHOA==",
-      "path": "microsoft.entityframeworkcore.tools/5.0.0",
-      "hashPath": "microsoft.entityframeworkcore.tools.5.0.0.nupkg.sha512"
     },
     "Microsoft.Extensions.Caching.Abstractions/5.0.0": {
       "type": "package",

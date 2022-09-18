@@ -13,26 +13,29 @@
         <th scope="col">Detalles</th>
         <th scope="col">Modificar</th>
     </tr>
+
     @foreach(var cliente in Model.clientes)
     {          
-        <tr>
-            <td>@cliente.Id</td>
+        <tr>            
             <td>@cliente.Nombre</td>
             <td>@cliente.Apellido</td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page="./DetallesBD" asp-route-clienteId="@cliente.Id">
+                <a class="btn btn-primary table-btn" asp-page="../router/DetallesBD" asp-route-clienteId="@cliente.Id">
                     <i class="fas fa-info-circle fa-lg"></i> 
                     Detalle Cliente
                 </a>    
             </td>  
             <td>
-                <a class="btn btn-primary table-btn" asp-page="./UpdateBD" asp-route-clienteId="@cliente.Id">
+                <a class="btn btn-primary table-btn" asp-page="../router/UpdateBD" asp-route-clienteId="@cliente.Id">
                     <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
                     Modificar
                 </a>
-            </td>          
+            </td>
         </tr>     
     }
 </table>
+<div>
+    <a asp-page="../router/AdminSistema" class="btn btn-primary">Principal</a>
+</div>
 
 
