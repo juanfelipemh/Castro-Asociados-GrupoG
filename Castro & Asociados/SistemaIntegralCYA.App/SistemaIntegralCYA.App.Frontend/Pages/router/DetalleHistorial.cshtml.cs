@@ -9,13 +9,13 @@ using SistemaIntegralCYA.App.Persistencia.AppRepositorios;
 using Microsoft.AspNetCore.Authorization;
 namespace SistemaIntegralCYA.App.Pages
 {
-    public class HistorialModel : PageModel
+    public class HistorialModelDetalle : PageModel
     {
         private readonly IRepositorioHIstorial repositorioHIstoriales;
 
         public IEnumerable<Historial> historial {get; set;}
 
-        public HistorialModel()
+        public HistorialModelDetalle()
         {
             this.repositorioHIstoriales = new RepositorioHistorial(new SistemaIntegralCYA.App.Persistencia.AppContext());
         }

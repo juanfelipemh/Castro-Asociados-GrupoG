@@ -3,23 +3,24 @@
 @{
 }
 
-<form>    
+<form method="post"> 
+    <input type="hidden" asp-for="historial.Id"/>   
     <label class="input-group-text" for="inputGroupSelect01">Seleccionar Servicio</label>
         <select class="form-select" id="inputGroupSelect01">
-            <option selected>Elegir...</option>
+            <option selected >Elegir...</option>
             <option value="1">Mantenimiento de equpos</option>
             <option value="2">Reparación de equipos</option>
             <option value="3">Instalación de accesorios</option>
         </select>
-        <label class="input-group-text" for="inputGroupSelect01">Elija el Técnico</label>
+        <label class="input-group-text" for="inputGroupSelect01" >Elija el Técnico</label>
         <select class="form-select" id="inputGroupSelect01">
             <option selected>Técnicos...</option>
             <option value="1">Martin Elias Jimenez Posada</option>
             <option value="2">Luis Alberto Ortiz Castro</option>
             <option value="3">Pedro Daniel Quintero Hernandez</option>
         </select>
-        <label class="input-group-text" for="inputGroupSelect01">Seleccionar Horario</label>
-        <select class="form-select" id="inputGroupSelect01">
+        <label class="input-group-text" for="inputGroupSelect01" asp-for="historial.Horario">Seleccionar Horario</label>
+        <select class="form-select" id="inputGroupSelect01" asp-for="historial.Horario">
             <option selected>Horarios Disponible...</option>
             <option value="1">9 am</option>
             <option value="2">10 am</option>
@@ -30,11 +31,24 @@
             <option value="7">3 pm</option>
             <option value="8">4 pm</option>
         </select>
+
         <div class="inputContainer">
-            <input type="text" class="inputForm" placeholder="a">
-            <label class="labelForm">Describa brevemente su requerimiento</label>
+            <input type="datetime-local" id="datetime" name="datetime" class="inputForm" placeholder="a" asp-for="historial.FechaServicio">
+            <label class="labelForm" asp-for="historial.FechaServicio">Seleccione Fecha y Horario Servicios</label>
         </div>
 
+        <div class="inputContainer">
+            <input type="text" class="inputForm" placeholder="a" asp-for="historial.DescripcionServicio">
+            <label class="labelForm" asp-for="historial.DescripcionServicio">Describa brevemente su requerimiento</label>
+        </div>
+
+        <input type="submit" class="submitBtn" value="Registrarse">    
+        <a class="submitBtn nav-link" href="../router/Aplicativo">Menú Principal<a>
+        </div>
+    </div>     
+</form>
+
+        <!--
         <div class="creditCardForm">
             <div class="heading">
                 <h4>Realizar Pago</h4>
@@ -84,42 +98,5 @@
                         <img src="../img/amex.jpg" id="amex">
                     </div>
                 </form>
-            </div>     
-            <input type="submit" value="Grabar">
-        <div>
-
-        <a class="submitBtn nav-link" href="../router/Aplicativo">Regresar<a>
-        </div>
-    </div>     
-</form>
-
-<body>
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th scope="col">Servicio Solicitado</th>
-                <th scope="col">Técnico</th>
-                <th scope="col">Horario Servicio</th>
-                <th scope="col">Descripción</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Mantenimiento</td>
-                <td>Martin Elias Jimenez Posada</td>
-                <td>10 am</td>
-                <td>Solicito que le realicen un mantenimiento preventivo a mi computador porque está lento</td>
-            </tr>
-            <tr>
-                <td>Instalación</td>
-                <td>Pedro Daniel Quintero Hernandez</td>
-                <td>2 pm</td>
-                <td>Solicito la instalación de más memoria ram</td>
-            </tr>
-            <tr>
-            </tr>
-        </tbody>
-    </table>
-        <input type="submit" value="Modificar">
-        <input type="submit" value="Eliminar">
-</body>
+            </div>            
+        <div>-->

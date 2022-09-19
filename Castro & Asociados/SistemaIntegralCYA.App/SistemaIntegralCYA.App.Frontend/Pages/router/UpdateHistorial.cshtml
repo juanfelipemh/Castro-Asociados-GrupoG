@@ -1,0 +1,60 @@
+@page
+@model SistemaIntegralCYA.App.Frontend.Pages.router.UpdateHistorial
+@{
+}
+<div>
+    <h1>Modificar Historial @Model.historial.Id</h1>
+</div>
+
+<body class="signForm">    
+    <div class="signupFrm">
+        <form method="post">
+            <input type="hidden" asp-for="historial.Id"/>
+            <div class="formForm2" id="formRegistro">    
+
+                <h3 class="titleForm">Modificar Datos</h3>
+
+
+                <div class="inputContainer">                    
+                    <input id="horario" type="text" class="inputForm" asp-for="historial.Horario" placeholder="a">
+                    <label class="labelForm" asp-for="historial.Horario">Horario</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input type="datetime-local" id="datetime" name="datetime" class="inputForm" asp-for="historial.FechaServicio" placeholder="a">
+                    <label class="labelForm" asp-for="historial.FechaServicio">Fecha Servicio</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="tecnicos" type="text" class="inputForm" placeholder="a">
+                    <label class="labelForm" >Nombre Tecnico</label>                    
+                </div>
+
+                <div class="inputContainer">                    
+                    <input id="servicio" type="text" class="inputForm" asp-for="historial.Servicio" placeholder="a">
+                    <label class="labelForm" asp-for="historial.Servicio">Servicio</label>                    
+                </div>  
+
+                <div class="inputContainer">                    
+                    <input id="descripcion" type="text" class="inputForm" asp-for="historial.DescripcionServicio" placeholder="a">
+                    <label class="labelForm" asp-for="historial.DescripcionServicio">Descripcion del Servicio</label>                    
+                </div>  
+
+                <div class="inputContainer">                    
+                    <input id="valor" type="number" class="inputForm" asp-for="historial.Valor" placeholder="a">
+                    <label class="labelForm" asp-for="historial.Valor">Valor Servicio</label>                    
+                </div>
+
+                <div>
+                    <button type="submit" class="btn btn-primary">Modificar</button>
+                </div>
+                <div id="mensaje"></div> 
+            </div>            
+            <div>
+                <a asp-page="../router/Historial" class="btn btn-primary">Regresar al Historial</a>
+            </div>   
+
+        </form> 
+    </div>
+</body>
+

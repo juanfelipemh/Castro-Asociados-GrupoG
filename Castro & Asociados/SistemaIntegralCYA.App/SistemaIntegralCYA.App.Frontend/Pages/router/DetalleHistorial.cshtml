@@ -1,7 +1,9 @@
-﻿@page
-@model SistemaIntegralCYA.App.Pages.HistorialModel
+@page
+@model SistemaIntegralCYA.App.Pages.HistorialModelDetalle
 @{
 }
+
+<h1>Historial</h1>
 
 <body>
     <table class="table table-striped">
@@ -25,17 +27,10 @@
                     <td>Mantenimiento</td>
                     <td>@historial.DescripcionServicio</td>
                     <td>$100.000</td>
-                    <td>
-                        <a class="btn btn-primary table-btn" asp-page="../router/UpdateHistorial"
-                        asp-route-tecnicoId="@historial.Id">
-                            <i class="fas fa-address-book fa-lg" aria-hidden="true"></i>
-                            Modificar
-                        </a>
-                    </td>
                 </tr>
             }
 
         </tbody>
-        <a class="submitBtn nav-link" href="../router/AdminSistema">Menu Principal<a>
+        <a class="submitBtn nav-link" href="../router/Aplicativo">Menu Principal<a>
     </table>
 </body>

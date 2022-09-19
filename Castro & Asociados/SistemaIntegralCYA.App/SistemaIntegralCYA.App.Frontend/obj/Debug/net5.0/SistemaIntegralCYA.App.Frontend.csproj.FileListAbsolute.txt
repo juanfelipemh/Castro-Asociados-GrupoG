@@ -343,3 +343,5 @@ C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegr
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\IngresoAdmin.cshtml.g.cs
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\DeleteBD.cshtml.g.cs
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\EliminarTecnico.cshtml.g.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\UpdateHistorial.cshtml.g.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\obj\Debug\net5.0\Razor\Pages\router\DetalleHistorial.cshtml.g.cs

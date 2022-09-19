@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 using SistemaIntegralCYA.App.Dominio.Entidades;
 using SistemaIntegralCYA.App.Persistencia.AppRepositorios;
+
 namespace SistemaIntegralCYA.App.Frontend.Pages.router
 {
     public class UpdateTecnico : PageModel
