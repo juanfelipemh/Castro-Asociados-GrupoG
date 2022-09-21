@@ -11,7 +11,6 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
         void DeleteUsuario (int clienteId);
         Cliente AddUsuario(Cliente NuevoCliente);
         IEnumerable<Cliente> GetClientePorFiltro(string filtro);
-
-        //Tecnicos AsinarTecnico (int clienteId, int tecnicoId);
+        //Tecnicos AsignarTecnico (int clienteId, int tecnicoId);
     }
 }

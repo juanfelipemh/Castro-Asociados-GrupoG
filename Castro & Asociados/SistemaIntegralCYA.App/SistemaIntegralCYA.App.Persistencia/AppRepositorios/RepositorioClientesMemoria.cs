@@ -78,13 +78,31 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
                 cliente.Apellido = ClienteActualizado.Apellido;
                 cliente.NumeroTelefono = ClienteActualizado.NumeroTelefono;
                 cliente.CorreoElectronico = ClienteActualizado.CorreoElectronico;
-                cliente.ClaveUsuario = ClienteActualizado.ClaveUsuario;
+                cliente.ClaveUsuario = ClienteActualizado.ClaveUsuario;                
 
                 _appContext.SaveChanges();
             }
             return cliente;  
         }
 
+        
+        /*
+        public Tecnicos AsignarTecnico (int clienteId, int tecnicoId)
+        {
+            var cliente = _appContext.Clientes.FirstOrDefault(c => c.Id == clienteId);
+            if (cliente != null)
+            {
+                var tecnico = _appContext.Tecnicos.FirstOrDefault(r => r.Id == ClienteActualizado.Id);
+                if (tecnico != null)
+                {
+                    cliente.Tecnicos = tecnico;
+                    _appContext.SaveChanges();
+                }
+                return tecnico;
+            }
+            return null;
+        }
+        */
 
 
         /* Todo lo siguiente funciona como datos de memoria para comprobar que funcione la conexión
