@@ -19,7 +19,7 @@
             <td>@cliente.Nombre</td>
             <td>@cliente.Apellido</td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page="../router/DetallesBD" asp-route-clienteId="@cliente.Id">
+                <a class="btn btn-info table-btn" asp-page="../router/DetallesBD" asp-route-clienteId="@cliente.Id">
                     <i class="fas fa-info-circle fa-lg"></i> 
                     Detalle Cliente
                 </a>    
@@ -31,7 +31,7 @@
                 </a>
             </td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page="../router/DeleteBD" asp-route-clienteId="@cliente.Id">
+                <a class="btn btn-danger table-btn" asp-page="../router/DeleteBD" asp-route-clienteId="@cliente.Id">
                     <i class="fas fa-trash fa-lg" aria-hidden="true"></i>
                     Eliminar
                 </a>

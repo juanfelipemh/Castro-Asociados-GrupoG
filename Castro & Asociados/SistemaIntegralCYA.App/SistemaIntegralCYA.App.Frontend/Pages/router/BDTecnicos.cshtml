@@ -1,7 +1,6 @@
 @page
 @model SistemaIntegralCYA.App.Frontend.Pages.router.BDTecnicos
 @{
-    ViewData["Title"] = "BDTecnicos";
 }
 
 <h1>Tecnicos Sistema</h1>
@@ -21,7 +20,7 @@
             <td>@tecnico.Nombre</td>
             <td>@tecnico.Apellido</td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page="../router/DetallesTecnico" asp-route-tecnicoId="@tecnico.Id">
+                <a class="btn btn-info table-btn" asp-page="../router/DetallesTecnico" asp-route-tecnicoId="@tecnico.Id">
                     <i class="fas fa-info-circle fa-lg"></i>
                     Detalle Técnico
                 </a>
@@ -33,7 +32,7 @@
                 </a>
             </td>
             <td>
-                <a class="btn btn-primary table-btn" asp-page="../router/EliminarTecnico" asp-route-tecnicoId="@tecnico.Id">
+                <a class="btn btn-danger table-btn" asp-page="../router/EliminarTecnico" asp-route-tecnicoId="@tecnico.Id">
                     <i class="fas fa-trash fa-lg" aria-hidden="true"></i>
                     Eliminar
                 </a>
