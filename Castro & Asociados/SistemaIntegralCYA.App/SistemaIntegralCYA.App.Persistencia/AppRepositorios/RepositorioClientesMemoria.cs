@@ -86,23 +86,23 @@ namespace SistemaIntegralCYA.App.Persistencia.AppRepositorios
         }
 
         
-        /*
+        
         public Tecnicos AsignarTecnico (int clienteId, int tecnicoId)
         {
             var cliente = _appContext.Clientes.FirstOrDefault(c => c.Id == clienteId);
             if (cliente != null)
             {
-                var tecnico = _appContext.Tecnicos.FirstOrDefault(r => r.Id == ClienteActualizado.Id);
+                var tecnico = _appContext.Tecnicos.FirstOrDefault(r => r.Id == tecnicoId);
                 if (tecnico != null)
                 {
-                    cliente.Tecnicos = tecnico;
+                    cliente.Tecnico = tecnico;
                     _appContext.SaveChanges();
                 }
                 return tecnico;
             }
             return null;
         }
-        */
+        
 
 
         /* Todo lo siguiente funciona como datos de memoria para comprobar que funcione la conexión

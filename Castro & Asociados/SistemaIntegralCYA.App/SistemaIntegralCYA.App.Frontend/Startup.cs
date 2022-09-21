@@ -26,6 +26,7 @@ namespace SistemaIntegralCYA.App.Frontend
         {
             services.AddRazorPages();
             services.AddDbContext<SistemaIntegralCYA.App.Persistencia.AppContext>();
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,6 +44,7 @@ namespace SistemaIntegralCYA.App.Frontend
             }
 
             app.UseHttpsRedirection();
+
             app.UseStaticFiles();
 
             app.UseRouting();
@@ -51,6 +53,10 @@ namespace SistemaIntegralCYA.App.Frontend
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapControllerRoute(
+                    name: "default",
+                    pattern: "{controller=Conference}/{action=Index}/{id?}");
+                    
                 endpoints.MapRazorPages();
             });
         }
