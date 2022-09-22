@@ -1,0 +1,10 @@
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\bin\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.deps.json
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\bin\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\bin\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.pdb
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Dominio\obj\Release\netstandard2.0\SistemaIntegralCYA.App.Dominio.pdb

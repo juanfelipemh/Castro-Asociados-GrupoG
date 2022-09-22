@@ -7,7 +7,8 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
 namespace SistemaIntegralCYA.App.Frontend.Pages.router
-{
+{   
+    
     public class IngresoAdmin : PageModel
     {
         private readonly ILogger<IngresoAdmin> _logger;

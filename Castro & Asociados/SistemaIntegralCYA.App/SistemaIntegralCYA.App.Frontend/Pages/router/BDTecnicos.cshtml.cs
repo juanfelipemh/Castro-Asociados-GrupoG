@@ -14,6 +14,7 @@ namespace SistemaIntegralCYA.App.Frontend.Pages.router
     {
         private readonly IRepositorioTecnico repositorioTecnicos;
 
+        [BindProperty]
         public IEnumerable<Tecnicos> tecnicos {get; set;}
 
         public BDTecnicos()

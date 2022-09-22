@@ -16,7 +16,7 @@ namespace SistemaIntegralCYA.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = SistemaIntegralCYAData");
+                .UseSqlServer("Server=tcp:juanfelipe.database.windows.net,1433;Initial Catalog=SistemaIntegralCYA.App.Frontend;Persist Security Info=False;User ID=admin_1;Password=A2121584a.;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             }
         }
     }

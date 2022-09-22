@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4ij5KokyuTs7Nqw/H9uG54w+XvCJ92UsS89vJfXR8xa8pwK4PKXR2BvTOdJgUkl6AKYxAgSLK6tisvEtERhog==",
+  "dgSpecHash": "gkoNiJekeRNJSAVz6uhwwJOIW5TyGZCWPtWHwl4NO9HK8l0sJbfUVwDvASjs41FwHRIGS7mAVHTHRkVd4hAWKA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\Desktop\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\felip\\OneDrive\\Castro-Asociados-GrupoG\\Castro & Asociados\\SistemaIntegralCYA.App\\SistemaIntegralCYA.App.Consola\\SistemaIntegralCYA.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

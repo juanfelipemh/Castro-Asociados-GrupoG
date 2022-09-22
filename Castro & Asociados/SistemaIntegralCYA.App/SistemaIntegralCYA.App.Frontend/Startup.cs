@@ -60,5 +60,6 @@ namespace SistemaIntegralCYA.App.Frontend
                 endpoints.MapRazorPages();
             });
         }
+        
     }
 }

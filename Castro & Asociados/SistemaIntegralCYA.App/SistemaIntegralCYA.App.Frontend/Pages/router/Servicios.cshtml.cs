@@ -42,7 +42,6 @@ namespace SistemaIntegralCYA.App.Pages
             return Page();
         }   
 
-
         public IActionResult OnPost()
         {
             if(historial.Id > 0)
