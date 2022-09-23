@@ -16,6 +16,9 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.0" />
   </ItemGroup>
 
+<PropertyGroup>
+  <EnableMSDeployAppOffline>false</EnableMSDeployAppOffline>
+<PropertyGroup>
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
