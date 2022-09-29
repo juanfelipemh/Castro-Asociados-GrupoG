@@ -1,3 +1,4 @@
 {
-    "appService.deploySubpath": "."
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/70b3dccf-ddd1-45a1-8a80-afc325fd0197/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/SistemaIntegralCYA"
 }

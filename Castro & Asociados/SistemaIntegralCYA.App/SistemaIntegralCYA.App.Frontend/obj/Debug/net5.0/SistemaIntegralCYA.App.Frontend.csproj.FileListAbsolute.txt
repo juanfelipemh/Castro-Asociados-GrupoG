@@ -358,3 +358,10 @@ C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegr
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\publish\appsettings.json
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\publish\SistemaIntegralCYA.App.Frontend.deps.json
 C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\publish\SistemaIntegralCYA.App.Frontend.runtimeconfig.json
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\felip\OneDrive\Castro-Asociados-GrupoG\Castro & Asociados\SistemaIntegralCYA.App\SistemaIntegralCYA.App.Frontend\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
